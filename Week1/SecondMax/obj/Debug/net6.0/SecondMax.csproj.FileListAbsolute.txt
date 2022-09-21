@@ -1,0 +1,15 @@
+C:\Revature\CodingChallenges\Week1\SecondMax\bin\Debug\net6.0\SecondMax.exe
+C:\Revature\CodingChallenges\Week1\SecondMax\bin\Debug\net6.0\SecondMax.deps.json
+C:\Revature\CodingChallenges\Week1\SecondMax\bin\Debug\net6.0\SecondMax.runtimeconfig.json
+C:\Revature\CodingChallenges\Week1\SecondMax\bin\Debug\net6.0\SecondMax.dll
+C:\Revature\CodingChallenges\Week1\SecondMax\bin\Debug\net6.0\SecondMax.pdb
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.csproj.AssemblyReference.cache
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.AssemblyInfoInputs.cache
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.AssemblyInfo.cs
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.csproj.CoreCompileInputs.cache
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.dll
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\refint\SecondMax.dll
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.pdb
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\SecondMax.genruntimeconfig.cache
+C:\Revature\CodingChallenges\Week1\SecondMax\obj\Debug\net6.0\ref\SecondMax.dll
