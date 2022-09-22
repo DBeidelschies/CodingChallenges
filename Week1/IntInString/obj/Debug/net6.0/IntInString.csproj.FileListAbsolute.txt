@@ -1,0 +1,15 @@
+C:\Revature\CodingChallenges\Week1\IntInString\bin\Debug\net6.0\IntInString.exe
+C:\Revature\CodingChallenges\Week1\IntInString\bin\Debug\net6.0\IntInString.deps.json
+C:\Revature\CodingChallenges\Week1\IntInString\bin\Debug\net6.0\IntInString.runtimeconfig.json
+C:\Revature\CodingChallenges\Week1\IntInString\bin\Debug\net6.0\IntInString.dll
+C:\Revature\CodingChallenges\Week1\IntInString\bin\Debug\net6.0\IntInString.pdb
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.csproj.AssemblyReference.cache
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.AssemblyInfoInputs.cache
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.AssemblyInfo.cs
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.csproj.CoreCompileInputs.cache
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.dll
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\refint\IntInString.dll
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.pdb
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\IntInString.genruntimeconfig.cache
+C:\Revature\CodingChallenges\Week1\IntInString\obj\Debug\net6.0\ref\IntInString.dll
