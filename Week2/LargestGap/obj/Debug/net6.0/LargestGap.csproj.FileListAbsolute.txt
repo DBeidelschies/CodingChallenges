@@ -1,0 +1,15 @@
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.csproj.AssemblyReference.cache
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.AssemblyInfoInputs.cache
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.AssemblyInfo.cs
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.csproj.CoreCompileInputs.cache
+C:\Revature\CodingChallenges\Week2\LargestGap\bin\Debug\net6.0\LargestGap.exe
+C:\Revature\CodingChallenges\Week2\LargestGap\bin\Debug\net6.0\LargestGap.deps.json
+C:\Revature\CodingChallenges\Week2\LargestGap\bin\Debug\net6.0\LargestGap.runtimeconfig.json
+C:\Revature\CodingChallenges\Week2\LargestGap\bin\Debug\net6.0\LargestGap.dll
+C:\Revature\CodingChallenges\Week2\LargestGap\bin\Debug\net6.0\LargestGap.pdb
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.dll
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\refint\LargestGap.dll
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.pdb
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\LargestGap.genruntimeconfig.cache
+C:\Revature\CodingChallenges\Week2\LargestGap\obj\Debug\net6.0\ref\LargestGap.dll
